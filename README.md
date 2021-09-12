@@ -1,4 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LernerW&count_private=true&show_icons=true&theme=radical" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=LernerW&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=fffff" /> -->
 
 ### Hi there 👋
 
